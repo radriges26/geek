@@ -1,0 +1,4 @@
+Uber OOO 14 4
+Gazprom OAO 10 9
+Supermarket OOO 42 6
+City OAO 8 9
