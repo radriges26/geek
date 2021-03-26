@@ -81,10 +81,8 @@ class Xerox(OfficeEquipment):
 
 p = Printer("HP", "M1132", 1200, 10, "цветной")
 p1 = Printer("Lexmark", "B223", 600, 34, "чб")
-
 s = Scanner("CANON", "LiDE 300", 4800, 14, "CIS")
 s1 = Scanner("Brother", "HL-1202R", 2400, 20, "CTS")
-
 x = Xerox("Xerox", "B205", 2400, 30, True)
 x1 = Xerox("Pantum", "P230", 1200, 30)
 
